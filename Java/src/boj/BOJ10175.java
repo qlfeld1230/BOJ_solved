@@ -17,10 +17,8 @@ public class BOJ10175 {
          */
 
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        StringBuilder sb = new StringBuilder();
 
         int N = Integer.parseInt(br.readLine());
-        int result = 0;
 
         // 테스트 케이스만큼 반복
         for (int t = 0; t < N; t++) {
