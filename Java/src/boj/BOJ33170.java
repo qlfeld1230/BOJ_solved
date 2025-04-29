@@ -15,8 +15,7 @@ public class BOJ33170 {
          */
 
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        StringBuilder sb = new StringBuilder();
-
+       
         int A = Integer.parseInt(br.readLine());
         int B = Integer.parseInt(br.readLine());
         int C = Integer.parseInt(br.readLine());

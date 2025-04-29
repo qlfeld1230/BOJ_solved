@@ -1,7 +1,6 @@
 package boj;
 
 import java.io.*;
-import java.util.*;
 
 public class BOJ5565 {
     public void solve() throws IOException {
