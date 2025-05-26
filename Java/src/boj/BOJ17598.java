@@ -1,7 +1,6 @@
 package boj;
 
 import java.io.*;
-import java.util.StringTokenizer;
 
 public class BOJ17598 {
     public void solve() throws IOException {
